@@ -1,8 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=b380cc&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9dbfa4&size=35&center=true&vCenter=true&width=1000&lines=Ola,+meu+nome+é+Pedro+Candido;Tenho+18+anos;Eu+sou+do+Brazil;Estou+fazendo+faculdade+Desenvolvimento+Sistema;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedroAcandido&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
