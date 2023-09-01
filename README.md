@@ -7,9 +7,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedroAcandido&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedroAcandido&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
 
 <div align="center"> 
 <a href="https://www.instagram.com/pdr.rei11/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
